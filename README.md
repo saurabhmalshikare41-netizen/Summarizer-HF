@@ -2,7 +2,6 @@
 
 Fine-tuned **t5-small** on the [SAMSum](https://huggingface.co/datasets/Samsung/samsum) dialogue dataset and served it through a **FastAPI** app with a simple web UI.
 
-![screenshot](screenshot.png)
 
 ## Features
 - Fine-tuning pipeline in a Jupyter notebook (4,000 train / 500 validation samples, 6 epochs)
